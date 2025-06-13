@@ -1,0 +1,61 @@
+
+body {
+	background-image: url(../imagenes/azul.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+
+
+.Login {
+	border: 1px solid #E1E1E1;
+	border-radius: 2px;
+	padding: 15px;3
+	width: 300px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.label {
+	color: yellowgreen;
+}
+.colorlabel {
+	color: #f1c40f;
+}
+.collabel {
+	color: #f1c40f;
+}
+
+.boton {
+	text-align: center;
+}
+
+.colortitulo {
+ color: #FFFFFF;
+ text-align: center;
+}
+
+.contactenos {
+	color: #f1c40f;
+	text-align: center;
+}
+
+.idlabel {
+	color: #f1c40f;
+	text-align: justify;
+}
+
+.centrar {
+	width: 300px;
+	margin: 0 auto;
+	text-align: center;
+}x1
